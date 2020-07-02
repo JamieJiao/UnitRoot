@@ -3,6 +3,7 @@
 As rho gets close to 1, X_t is less stationary.
 When rho = 1, it is a random walk. Variance and covariance of X_t are functions of time.
 
+<img src="images/rho=0.5.png" width="100" height="100">
 ![](images/rho=0.5.png =100x20)
 
 ![](images/rho=0.8.png =100x20)
